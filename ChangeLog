@@ -1,0 +1,74 @@
+DO64 - 64 color universal pixel art palette by David Olofson
+
+0.23
+	* Index 34 and 36 were too similar, and have been replaced with a tone
+	  between 33 and 36.
+	* Index 33 made ever so slightly darker, and subtly more blue, to fit
+	  nicely between 34 and 37.
+	* Index 37 made slightly brighter by bumping up green a little.
+
+0.22
+	* Tweaked the dark yellows 22-23 a little, to transfer nicely into skin
+	  tones 13-15.
+	* Aligned pink/lilac 61 better with the gradient.
+	* Darkened bright purples 57-58 slightly.
+	* Tweaked and intensified reds 19-21 a bit.
+
+0.21
+	* Brightened the pinks/lilacs 59-63 a bit, so the dark reds 17 and down
+	  can extend the gradient.
+	* Straightened out the skin tones 10-15 a little.
+
+0.20
+	* More saturated blues 48-52.
+	* Tweaked and evened out the other blues 42-47.
+	* Tweaked the greens 27-35 a bit.
+
+0.19
+	* Shifted dark yellows 22-23 towards skin tones.
+	* Desaturated skin tones 10-15 a bit.
+	* Removed lime 27; replaced by green 29.
+	* Removed two levels from the teal scale.
+	* Shifted the teal scale towards green.
+	* Added three levels of steel blue, 42-44, extending from the top 
+	  three blues, 45-47.
+	* Brightened gray 8 slightly.
+	* Desaturated dark blues towards mid blue 48.
+	* Evened out the pink/lilac gradient 59-63.
+	* Desaturated the pinks/lilacs 59-63 a little.
+
+0.18
+	* Lined up the hue of the bright blues 45-47 with the darker blues.
+	* Made blues 48-52 more saturated.
+	* Stole steel blue 44 for another bright gray, extending that gradient
+	  to 10 levels.
+	* Replaced the mint and steel blues with a single teal gradient from
+	  37-44.
+	* Reversed the green 28-36 gradient.
+	* Increased the saturation of the dark greens.
+	* Shifted the bright greens 27-29 towards yellow.
+	* Brightened lime 27 a little.
+	* Increased saturation of purples 53-58.
+	* Pink/lilac gradient in 59-63.
+
+0.17
+	* Desaturated skin tone 11 slightly.
+	* Dim yellow 25 replaced with a bright orange and moved to 24.
+	* Dim yellow 26 replaced with lime green.
+	* Red-orange 20 changed moved away from red 19 towards orange 23,
+	  landing closer to a 50/50 mix.
+	* Dim yellow 27 turned into a new, darker green.
+	* Greens 27-35 aligned in hue, so that they all have red == blue, and
+	  gradually desaturated towards the dark end.
+	* Swapped bright blues 45 and 46.
+	* Evened out the hue curve for blues 45-52 so that green == red for the
+	  "fully" saturated blue 48, and smothly tilts towards green while
+	  saturation is reduced towards 45.
+	* Dark blues 49-52 aligned in hue so that green == red, and subtly
+	  desaturated towards the dark end.
+	* The 53-63 purple mess turned into two gradients that start in the
+	  bright pink/lavender 58, and diverge in the directions of blue-violet
+	  and violet-red respectively.
+
+0.16
+	* Minor tweak of the bright greens.
