@@ -1,5 +1,13 @@
 DO64 - 64 color universal pixel art palette by David Olofson
 
+0.24
+	* Increased contrast;
+		* Grays 1 and 2 made darker, for better contrast.
+		* Brown index 15 and green index 35 made darker, to fit better
+		  with gray 1.
+		* Teal indices 45-47 made slighly darker, to fit better as
+		  half-tones in the blue gradient.
+
 0.23
 	* Index 34 and 36 were too similar, and have been replaced with a tone
 	  between 33 and 36.
